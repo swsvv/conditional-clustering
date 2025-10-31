@@ -1,0 +1,12 @@
+username,birth,group,disjoint
+Adam,19810101,BC,
+Eve,19810215,BC,
+Noah,20000505,BC,
+Abraham,20010101,BC,Lot - 20201231
+Sarah,20050320,BC,
+Isaac,20200501,BC,
+Rebekah,20220612,BC,
+Esau,20301123,BC,Jacob - 20201123
+Jacob,20301123,BC,Esau - 20201123|Laban - 20120123
+Laban,20120123,BC,Jacob - 20301123
+Lot,20201231,BC,

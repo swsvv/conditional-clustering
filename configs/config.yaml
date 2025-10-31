@@ -1,0 +1,25 @@
+current_date: None
+seed: 0
+run_name: None
+num_experiments: 1
+group: GROUP_NAME
+dataset_path: ./dataset/DATASET.csv
+num_groups: 10
+num_generations: 10000
+pop_size: 300
+crossover_rate: 0.7
+mutation_rate: 0.05
+elitism_rate: 0.1
+empty_group_penalty: 500
+disjoint:
+  penalty: -20000
+age_interval:
+  bonus: 200
+  penalty: 1000
+  target_max_diff: 5
+  absolute_max_diff: 6
+group_size:
+  penalty: 100
+  hard_penalty: 1000
+  min_size: 6
+  max_size: 12
